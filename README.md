@@ -27,10 +27,6 @@ I'm a student deeply fascinated by machine learning — not just using it, but t
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
 
 📬 Open to collaborations, research discussions, and connecting with fellow ML enthusiasts!
