@@ -1,4 +1,5 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Utkarsh] 👋
+
 
 A passionate ML student exploring the science and craft of building intelligent systems — from algorithm internals to real-world model experiments.
 
